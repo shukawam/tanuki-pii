@@ -1,0 +1,19 @@
+_format_version: "3.0"
+
+services:
+  - name: echo
+    url: http://pii-service-ja:8080
+    routes:
+      - name: echo-route
+        paths:
+          - /echo
+
+plugins:
+  - name: ai-sanitizer
+    config:
+      pii_service:
+        host: pii-service-ja
+        port: 8080
+        scheme: http
+      sanitization_mode: INPUT
+      redact_type: placeholder

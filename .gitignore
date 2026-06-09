@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.DS_Store
+
+# downloaded dataset (CC-BY-SA 3.0, auto-fetched by eval/eval_ner_wikipedia.py)
+eval/fixtures/ner_wikipedia_raw.json

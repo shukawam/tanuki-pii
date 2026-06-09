@@ -1,0 +1,17 @@
+[
+  {"text": "私は山田太郎です。", "entities": [["PERSON", "山田太郎"]]},
+  {"text": "田中花子さんは大阪に住んでいます。", "entities": [["PERSON", "田中花子"], ["LOCATION", "大阪"]]},
+  {"text": "佐藤一郎はトヨタ自動車に勤めています。", "entities": [["PERSON", "佐藤一郎"], ["ORGANIZATION", "トヨタ自動車"]]},
+  {"text": "電話番号は090-1234-5678です。", "entities": [["PHONE_NUMBER", "090-1234-5678"]]},
+  {"text": "固定電話は03-1234-5678にかけてください。", "entities": [["PHONE_NUMBER", "03-1234-5678"]]},
+  {"text": "メールアドレスは taro@example.co.jp です。", "entities": [["EMAIL_ADDRESS", "taro@example.co.jp"]]},
+  {"text": "マイナンバーは123456789018です。", "entities": [["JP_MY_NUMBER", "123456789018"]]},
+  {"text": "〒100-0001 東京都千代田区千代田1-1", "entities": [["JP_POSTAL_CODE", "100-0001"], ["JP_ADDRESS", "東京都千代田区千代田1-1"]]},
+  {"text": "住所は神奈川県横浜市西区1-2-3です。", "entities": [["JP_ADDRESS", "神奈川県横浜市西区1-2-3"]]},
+  {"text": "旅券番号 TK1234567 を提示してください。", "entities": [["JP_PASSPORT", "TK1234567"]]},
+  {"text": "生年月日は令和3年4月1日です。", "entities": [["JP_DATE_WAREKI", "令和3年4月1日"]]},
+  {"text": "鈴木次郎の住所は北海道札幌市中央区4-5-6、電話は080-9876-5432。", "entities": [["PERSON", "鈴木次郎"], ["JP_ADDRESS", "北海道札幌市中央区4-5-6"], ["PHONE_NUMBER", "080-9876-5432"]]},
+  {"text": "John Smithは東京の三菱商事に勤めています。", "entities": [["PERSON", "John Smith"], ["LOCATION", "東京"], ["ORGANIZATION", "三菱商事"]]},
+  {"text": "弊社の法人番号は9234567890123です。", "entities": [["JP_CORPORATE_NUMBER", "9234567890123"]]},
+  {"text": "高橋美咲は京都大学の学生です。", "entities": [["PERSON", "高橋美咲"], ["ORGANIZATION", "京都大学"]]}
+]

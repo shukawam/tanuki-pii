@@ -1,0 +1,145 @@
+{
+  "counts": {
+    "nationalid": 24,
+    "general": 120,
+    "email": 24,
+    "passport": 8,
+    "url": 8,
+    "ip": 8,
+    "phone": 24,
+    "date": 16,
+    "creditcard": 8
+  },
+  "official": {
+    "stats": {
+      "nationalid": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 24,
+        "span_tp": 3
+      },
+      "general": {
+        "tp": 106,
+        "fp": 32,
+        "fn": 14,
+        "span_tp": 108
+      },
+      "email": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 24,
+        "span_tp": 21
+      },
+      "passport": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 8,
+        "span_tp": 0
+      },
+      "url": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 8,
+        "span_tp": 2
+      },
+      "ip": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 8,
+        "span_tp": 0
+      },
+      "phone": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 24,
+        "span_tp": 4
+      },
+      "date": {
+        "tp": 14,
+        "fp": 7,
+        "fn": 2,
+        "span_tp": 16
+      },
+      "creditcard": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 8,
+        "span_tp": 0
+      }
+    },
+    "latency": {
+      "p50": 10.984416992869228,
+      "p95": 23.752791981678456,
+      "max": 370.9319159970619
+    }
+  },
+  "candidate": {
+    "stats": {
+      "nationalid": {
+        "tp": 24,
+        "fp": 0,
+        "fn": 0,
+        "span_tp": 24
+      },
+      "general": {
+        "tp": 116,
+        "fp": 2,
+        "fn": 4,
+        "span_tp": 120
+      },
+      "email": {
+        "tp": 24,
+        "fp": 0,
+        "fn": 0,
+        "span_tp": 24
+      },
+      "passport": {
+        "tp": 8,
+        "fp": 0,
+        "fn": 0,
+        "span_tp": 8
+      },
+      "url": {
+        "tp": 8,
+        "fp": 0,
+        "fn": 0,
+        "span_tp": 8
+      },
+      "ip": {
+        "tp": 8,
+        "fp": 0,
+        "fn": 0,
+        "span_tp": 8
+      },
+      "phone": {
+        "tp": 23,
+        "fp": 0,
+        "fn": 1,
+        "span_tp": 23
+      },
+      "date": {
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "span_tp": 16
+      },
+      "creditcard": {
+        "tp": 6,
+        "fp": 0,
+        "fn": 2,
+        "span_tp": 7
+      },
+      "driverlicense": {
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "span_tp": 0
+      }
+    },
+    "latency": {
+      "p50": 30.502500012516975,
+      "p95": 68.40487499721348,
+      "max": 106.1008750111796
+    }
+  }
+}

@@ -1,0 +1,2202 @@
+[
+  {
+    "text": "私のマイナンバーは226548825960です。",
+    "entities": [
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "226548825960",
+        "start": 9,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "株式会社鈴木保険の近藤 裕樹へ sakamotoyoko@example.net から連絡しました。",
+    "entities": [
+      {
+        "type": "ORGANIZATION",
+        "text": "株式会社鈴木保険",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "type": "PERSON",
+        "text": "近藤 裕樹",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "sakamotoyoko@example.net",
+        "start": 16,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "〒115-8292 和歌山県山武郡芝山町三ノ輪20丁目26番19号 アーバン東上野825 に在住です。",
+    "entities": [
+      {
+        "type": "JP_POSTAL_CODE",
+        "text": "115-8292",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "type": "JP_ADDRESS",
+        "text": "和歌山県山武郡芝山町三ノ輪20丁目26番19号 アーバン東上野825",
+        "start": 10,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "〒600-3737 佐賀県神津島村戸山31丁目23番7号 に在住です。",
+    "entities": [
+      {
+        "type": "JP_POSTAL_CODE",
+        "text": "600-3737",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "type": "JP_ADDRESS",
+        "text": "佐賀県神津島村戸山31丁目23番7号",
+        "start": 10,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "旅券番号は LL4364703 です。",
+    "entities": [
+      {
+        "type": "JP_PASSPORT",
+        "text": "LL4364703",
+        "start": 6,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "担当の小林 裕樹（林食品株式会社）がご対応します。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "小林 裕樹",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "林食品株式会社",
+        "start": 9,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "私の名前は田中 陽一です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "田中 陽一",
+        "start": 5,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "詳しくは https://www.ishii.com/ をご覧ください。",
+    "entities": [
+      {
+        "type": "URL",
+        "text": "https://www.ishii.com/",
+        "start": 5,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "アクセス元のIPアドレスは 93.42.224.83 です。",
+    "entities": [
+      {
+        "type": "IP_ADDRESS",
+        "text": "93.42.224.83",
+        "start": 14,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "お電話は50-3318-8849までお願いします。",
+    "entities": [
+      {
+        "type": "PHONE_NUMBER",
+        "text": "50-3318-8849",
+        "start": 4,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "〒046-7570 和歌山県いすみ市氏家新田33丁目20番9号 シティ藤金288 に在住です。",
+    "entities": [
+      {
+        "type": "JP_POSTAL_CODE",
+        "text": "046-7570",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "type": "JP_ADDRESS",
+        "text": "和歌山県いすみ市氏家新田33丁目20番9号 シティ藤金288",
+        "start": 10,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "私の名前は井上 くみ子です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "井上 くみ子",
+        "start": 5,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "送付先は大阪府鴨川市千束24丁目24番2号 パーク港南282です。",
+    "entities": [
+      {
+        "type": "JP_ADDRESS",
+        "text": "大阪府鴨川市千束24丁目24番2号 パーク港南282",
+        "start": 4,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "契約日は1972年3月13日でした。",
+    "entities": [
+      {
+        "type": "DATE_TIME",
+        "text": "1972年3月13日",
+        "start": 4,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "お電話は080-1527-0864までお願いします。",
+    "entities": [
+      {
+        "type": "PHONE_NUMBER",
+        "text": "080-1527-0864",
+        "start": 4,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "私の名前は橋本 春香です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "橋本 春香",
+        "start": 5,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "カード番号 4789817080625540 で決済しました。",
+    "entities": [
+      {
+        "type": "CREDIT_CARD",
+        "text": "4789817080625540",
+        "start": 6,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "佐藤鉱業株式会社の佐々木 舞へ rikasato@example.net から連絡しました。",
+    "entities": [
+      {
+        "type": "ORGANIZATION",
+        "text": "佐藤鉱業株式会社",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "type": "PERSON",
+        "text": "佐々木 舞",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "rikasato@example.net",
+        "start": 16,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "アクセス元のIPアドレスは 97.152.62.19 です。",
+    "entities": [
+      {
+        "type": "IP_ADDRESS",
+        "text": "97.152.62.19",
+        "start": 14,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "担当の佐藤 知実（株式会社伊藤建設）がご対応します。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "佐藤 知実",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "株式会社伊藤建設",
+        "start": 9,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "池田 直子は佐藤水産有限会社に勤務しています。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "池田 直子",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "佐藤水産有限会社",
+        "start": 6,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "弊社の法人番号は6247413910394になります。",
+    "entities": [
+      {
+        "type": "JP_CORPORATE_NUMBER",
+        "text": "6247413910394",
+        "start": 8,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "送付先は神奈川県八千代市東和町9丁目19番11号です。",
+    "entities": [
+      {
+        "type": "JP_ADDRESS",
+        "text": "神奈川県八千代市東和町9丁目19番11号",
+        "start": 4,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "カード番号 3568291126462848 で決済しました。",
+    "entities": [
+      {
+        "type": "CREDIT_CARD",
+        "text": "3568291126462848",
+        "start": 6,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "長谷川 真綾は加藤水産有限会社に勤務しています。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "長谷川 真綾",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "加藤水産有限会社",
+        "start": 7,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "加藤 聡太郎（宮崎県在住、電話080-9094-9781）のマイナンバーは996565870228です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "加藤 聡太郎",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "type": "LOCATION",
+        "text": "宮崎県",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "080-9094-9781",
+        "start": 15,
+        "end": 28
+      },
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "996565870228",
+        "start": 37,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "高橋 くみ子さんは千代田区に住んでいます。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "高橋 くみ子",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "type": "LOCATION",
+        "text": "千代田区",
+        "start": 9,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "旅券番号は HF8638552 です。",
+    "entities": [
+      {
+        "type": "JP_PASSPORT",
+        "text": "HF8638552",
+        "start": 6,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "山崎 太一さんは徳島県に住んでいます。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "山崎 太一",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "LOCATION",
+        "text": "徳島県",
+        "start": 8,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "生年月日は昭和16年5月10日です。",
+    "entities": [
+      {
+        "type": "JP_DATE_WAREKI",
+        "text": "昭和16年5月10日",
+        "start": 5,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "近藤 拓真は有限会社藤田ガスに勤務しています。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "近藤 拓真",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "有限会社藤田ガス",
+        "start": 6,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "契約日は2024年9月7日でした。",
+    "entities": [
+      {
+        "type": "DATE_TIME",
+        "text": "2024年9月7日",
+        "start": 4,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "お電話は080-7993-9979までお願いします。",
+    "entities": [
+      {
+        "type": "PHONE_NUMBER",
+        "text": "080-7993-9979",
+        "start": 4,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "生年月日は令和28年12月8日です。",
+    "entities": [
+      {
+        "type": "JP_DATE_WAREKI",
+        "text": "令和28年12月8日",
+        "start": 5,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "伊藤 篤司（夷隅郡大多喜町在住、電話090-7747-6804）のマイナンバーは666816667710です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "伊藤 篤司",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "LOCATION",
+        "text": "夷隅郡大多喜町",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "090-7747-6804",
+        "start": 18,
+        "end": 31
+      },
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "666816667710",
+        "start": 40,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "担当の木村 和也（株式会社木村農林）がご対応します。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "木村 和也",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "株式会社木村農林",
+        "start": 9,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "アクセス元のIPアドレスは 35.186.97.253 です。",
+    "entities": [
+      {
+        "type": "IP_ADDRESS",
+        "text": "35.186.97.253",
+        "start": 14,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "送付先は徳島県夷隅郡大多喜町今戸38丁目8番19号 三筋シティ721です。",
+    "entities": [
+      {
+        "type": "JP_ADDRESS",
+        "text": "徳島県夷隅郡大多喜町今戸38丁目8番19号 三筋シティ721",
+        "start": 4,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "田中 真綾さんは滋賀県に住んでいます。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "田中 真綾",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "LOCATION",
+        "text": "滋賀県",
+        "start": 8,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "詳しくは https://ito.net/ をご覧ください。",
+    "entities": [
+      {
+        "type": "URL",
+        "text": "https://ito.net/",
+        "start": 5,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "担当の西村 聡太郎（近藤水産合同会社）がご対応します。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "西村 聡太郎",
+        "start": 3,
+        "end": 9
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "近藤水産合同会社",
+        "start": 10,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "旅券番号は KX5259059 です。",
+    "entities": [
+      {
+        "type": "JP_PASSPORT",
+        "text": "KX5259059",
+        "start": 6,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "旅券番号は FF3897542 です。",
+    "entities": [
+      {
+        "type": "JP_PASSPORT",
+        "text": "FF3897542",
+        "start": 6,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "詳しくは http://shimizu.net/ をご覧ください。",
+    "entities": [
+      {
+        "type": "URL",
+        "text": "http://shimizu.net/",
+        "start": 5,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "私の名前は鈴木 拓真です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "鈴木 拓真",
+        "start": 5,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "〒956-4541 宮城県八丈島八丈町日比谷公園20丁目16番16号 細野コーポ393 に在住です。",
+    "entities": [
+      {
+        "type": "JP_POSTAL_CODE",
+        "text": "956-4541",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "type": "JP_ADDRESS",
+        "text": "宮城県八丈島八丈町日比谷公園20丁目16番16号 細野コーポ393",
+        "start": 10,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "契約日は2018年4月20日でした。",
+    "entities": [
+      {
+        "type": "DATE_TIME",
+        "text": "2018年4月20日",
+        "start": 4,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "山下 淳さんは山武郡芝山町に住んでいます。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "山下 淳",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "type": "LOCATION",
+        "text": "山武郡芝山町",
+        "start": 7,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "契約日は1993年7月14日でした。",
+    "entities": [
+      {
+        "type": "DATE_TIME",
+        "text": "1993年7月14日",
+        "start": 4,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "〒576-2994 福島県横浜市鶴見区港南5丁目17番9号 湯本塩原パーク434 に在住です。",
+    "entities": [
+      {
+        "type": "JP_POSTAL_CODE",
+        "text": "576-2994",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "type": "JP_ADDRESS",
+        "text": "福島県横浜市鶴見区港南5丁目17番9号 湯本塩原パーク434",
+        "start": 10,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "吉田 花子（品川区在住、電話090-2042-0212）のマイナンバーは447722483221です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "吉田 花子",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "LOCATION",
+        "text": "品川区",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "090-2042-0212",
+        "start": 14,
+        "end": 27
+      },
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "447722483221",
+        "start": 36,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "弊社の法人番号は3769044368264になります。",
+    "entities": [
+      {
+        "type": "JP_CORPORATE_NUMBER",
+        "text": "3769044368264",
+        "start": 8,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "お電話は54-6304-5699までお願いします。",
+    "entities": [
+      {
+        "type": "PHONE_NUMBER",
+        "text": "54-6304-5699",
+        "start": 4,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "岡本 晃（電話：080-6056-0893、メール：yumikomiura@example.net ）",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "岡本 晃",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "080-6056-0893",
+        "start": 8,
+        "end": 21
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "yumikomiura@example.net",
+        "start": 26,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "弊社の法人番号は2656171639959になります。",
+    "entities": [
+      {
+        "type": "JP_CORPORATE_NUMBER",
+        "text": "2656171639959",
+        "start": 8,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "弊社の法人番号は3384719406215になります。",
+    "entities": [
+      {
+        "type": "JP_CORPORATE_NUMBER",
+        "text": "3384719406215",
+        "start": 8,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "〒455-1554 宮崎県鴨川市北青山30丁目13番20号 麹町ハイツ318 に在住です。",
+    "entities": [
+      {
+        "type": "JP_POSTAL_CODE",
+        "text": "455-1554",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "type": "JP_ADDRESS",
+        "text": "宮崎県鴨川市北青山30丁目13番20号 麹町ハイツ318",
+        "start": 10,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "佐藤保険合同会社の藤井 修平へ satoshota@example.com から連絡しました。",
+    "entities": [
+      {
+        "type": "ORGANIZATION",
+        "text": "佐藤保険合同会社",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "type": "PERSON",
+        "text": "藤井 修平",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "satoshota@example.com",
+        "start": 16,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "カード番号 4024565532850332 で決済しました。",
+    "entities": [
+      {
+        "type": "CREDIT_CARD",
+        "text": "4024565532850332",
+        "start": 6,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "私の名前は斎藤 舞です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "斎藤 舞",
+        "start": 5,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "お電話は090-0486-4103までお願いします。",
+    "entities": [
+      {
+        "type": "PHONE_NUMBER",
+        "text": "090-0486-4103",
+        "start": 4,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "私の名前は高橋 亮介です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "高橋 亮介",
+        "start": 5,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "林 花子さんは安房郡鋸南町に住んでいます。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "林 花子",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "type": "LOCATION",
+        "text": "安房郡鋸南町",
+        "start": 7,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "送付先は岐阜県香取郡神崎町明石町37丁目1番12号 コート台東488です。",
+    "entities": [
+      {
+        "type": "JP_ADDRESS",
+        "text": "岐阜県香取郡神崎町明石町37丁目1番12号 コート台東488",
+        "start": 4,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "吉田 さゆり（電話：080-3881-5352、メール：lkobayashi@example.com ）",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "吉田 さゆり",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "080-3881-5352",
+        "start": 10,
+        "end": 23
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "lkobayashi@example.com",
+        "start": 28,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "旅券番号は CY0631739 です。",
+    "entities": [
+      {
+        "type": "JP_PASSPORT",
+        "text": "CY0631739",
+        "start": 6,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "〒178-7374 青森県練馬区柿木沢新田13丁目9番14号 に在住です。",
+    "entities": [
+      {
+        "type": "JP_POSTAL_CODE",
+        "text": "178-7374",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "type": "JP_ADDRESS",
+        "text": "青森県練馬区柿木沢新田13丁目9番14号",
+        "start": 10,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "お電話は84-4854-8682までお願いします。",
+    "entities": [
+      {
+        "type": "PHONE_NUMBER",
+        "text": "84-4854-8682",
+        "start": 4,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "カード番号 213112579276979 で決済しました。",
+    "entities": [
+      {
+        "type": "CREDIT_CARD",
+        "text": "213112579276979",
+        "start": 6,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "お電話は070-1498-7550までお願いします。",
+    "entities": [
+      {
+        "type": "PHONE_NUMBER",
+        "text": "070-1498-7550",
+        "start": 4,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "生年月日は令和17年6月21日です。",
+    "entities": [
+      {
+        "type": "JP_DATE_WAREKI",
+        "text": "令和17年6月21日",
+        "start": 5,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "カード番号 502084276034 で決済しました。",
+    "entities": [
+      {
+        "type": "CREDIT_CARD",
+        "text": "502084276034",
+        "start": 6,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "契約日は1989年10月20日でした。",
+    "entities": [
+      {
+        "type": "DATE_TIME",
+        "text": "1989年10月20日",
+        "start": 4,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "アクセス元のIPアドレスは 221.99.163.127 です。",
+    "entities": [
+      {
+        "type": "IP_ADDRESS",
+        "text": "221.99.163.127",
+        "start": 14,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "詳しくは http://www.ikeda.jp/ をご覧ください。",
+    "entities": [
+      {
+        "type": "URL",
+        "text": "http://www.ikeda.jp/",
+        "start": 5,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "生年月日は令和20年10月13日です。",
+    "entities": [
+      {
+        "type": "JP_DATE_WAREKI",
+        "text": "令和20年10月13日",
+        "start": 5,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "旅券番号は XC7032728 です。",
+    "entities": [
+      {
+        "type": "JP_PASSPORT",
+        "text": "XC7032728",
+        "start": 6,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "私の名前は松本 里佳です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "松本 里佳",
+        "start": 5,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "生年月日は昭和10年10月26日です。",
+    "entities": [
+      {
+        "type": "JP_DATE_WAREKI",
+        "text": "昭和10年10月26日",
+        "start": 5,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "アクセス元のIPアドレスは 32.15.104.75 です。",
+    "entities": [
+      {
+        "type": "IP_ADDRESS",
+        "text": "32.15.104.75",
+        "start": 14,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "アクセス元のIPアドレスは 209.3.191.1 です。",
+    "entities": [
+      {
+        "type": "IP_ADDRESS",
+        "text": "209.3.191.1",
+        "start": 14,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "私のマイナンバーは121228189210です。",
+    "entities": [
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "121228189210",
+        "start": 9,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "鈴木 花子は斉藤保険有限会社に勤務しています。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "鈴木 花子",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "斉藤保険有限会社",
+        "start": 6,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "詳しくは https://mori.jp/ をご覧ください。",
+    "entities": [
+      {
+        "type": "URL",
+        "text": "https://mori.jp/",
+        "start": 5,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "担当の渡辺 結衣（株式会社松本ガス）がご対応します。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "渡辺 結衣",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "株式会社松本ガス",
+        "start": 9,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "鈴木通信合同会社の松本 裕太へ manabu25@example.net から連絡しました。",
+    "entities": [
+      {
+        "type": "ORGANIZATION",
+        "text": "鈴木通信合同会社",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "type": "PERSON",
+        "text": "松本 裕太",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "manabu25@example.net",
+        "start": 16,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "カード番号 30025328638557 で決済しました。",
+    "entities": [
+      {
+        "type": "CREDIT_CARD",
+        "text": "30025328638557",
+        "start": 6,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "詳しくは https://goto.com/ をご覧ください。",
+    "entities": [
+      {
+        "type": "URL",
+        "text": "https://goto.com/",
+        "start": 5,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "カード番号 4950604158453 で決済しました。",
+    "entities": [
+      {
+        "type": "CREDIT_CARD",
+        "text": "4950604158453",
+        "start": 6,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "ご連絡先メールは nwatanabe@example.com です。",
+    "entities": [
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "nwatanabe@example.com",
+        "start": 9,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "ご連絡先メールは zyoshida@example.com です。",
+    "entities": [
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "zyoshida@example.com",
+        "start": 9,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "詳しくは http://okamoto.jp/ をご覧ください。",
+    "entities": [
+      {
+        "type": "URL",
+        "text": "http://okamoto.jp/",
+        "start": 5,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "旅券番号は SW6301832 です。",
+    "entities": [
+      {
+        "type": "JP_PASSPORT",
+        "text": "SW6301832",
+        "start": 6,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "送付先は群馬県長生郡白子町長間4丁目8番5号 浅草コーポ057です。",
+    "entities": [
+      {
+        "type": "JP_ADDRESS",
+        "text": "群馬県長生郡白子町長間4丁目8番5号 浅草コーポ057",
+        "start": 4,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "中村 春香（電話：02-2376-8269、メール：kyosukemiura@example.com ）",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "中村 春香",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "02-2376-8269",
+        "start": 9,
+        "end": 21
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "kyosukemiura@example.com",
+        "start": 26,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "私のマイナンバーは729652806023です。",
+    "entities": [
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "729652806023",
+        "start": 9,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "山本 和也さんは西多摩郡瑞穂町に住んでいます。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "山本 和也",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "LOCATION",
+        "text": "西多摩郡瑞穂町",
+        "start": 8,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "松田 千代（目黒区在住、電話090-3793-8471）のマイナンバーは456096574626です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "松田 千代",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "LOCATION",
+        "text": "目黒区",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "090-3793-8471",
+        "start": 14,
+        "end": 27
+      },
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "456096574626",
+        "start": 36,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "私のマイナンバーは752270072340です。",
+    "entities": [
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "752270072340",
+        "start": 9,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "送付先は山形県大網白里市大京町18丁目27番16号 コーポ中鉢石町879です。",
+    "entities": [
+      {
+        "type": "JP_ADDRESS",
+        "text": "山形県大網白里市大京町18丁目27番16号 コーポ中鉢石町879",
+        "start": 4,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "ご連絡先メールは fukudaatsushi@example.net です。",
+    "entities": [
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "fukudaatsushi@example.net",
+        "start": 9,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "ご連絡先メールは sasakisayuri@example.com です。",
+    "entities": [
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "sasakisayuri@example.com",
+        "start": 9,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "旅券番号は MW7654630 です。",
+    "entities": [
+      {
+        "type": "JP_PASSPORT",
+        "text": "MW7654630",
+        "start": 6,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "契約日は1988年12月12日でした。",
+    "entities": [
+      {
+        "type": "DATE_TIME",
+        "text": "1988年12月12日",
+        "start": 4,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "ご連絡先メールは itomomoko@example.com です。",
+    "entities": [
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "itomomoko@example.com",
+        "start": 9,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "小林 花子（電話：070-5473-5853、メール：shashimoto@example.com ）",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "小林 花子",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "070-5473-5853",
+        "start": 9,
+        "end": 22
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "shashimoto@example.com",
+        "start": 27,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "送付先は愛媛県山武郡芝山町上吉羽1丁目7番16号 上広谷シャルム807です。",
+    "entities": [
+      {
+        "type": "JP_ADDRESS",
+        "text": "愛媛県山武郡芝山町上吉羽1丁目7番16号 上広谷シャルム807",
+        "start": 4,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "text": "アクセス元のIPアドレスは 137.11.86.66 です。",
+    "entities": [
+      {
+        "type": "IP_ADDRESS",
+        "text": "137.11.86.66",
+        "start": 14,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "生年月日は平成4年11月17日です。",
+    "entities": [
+      {
+        "type": "JP_DATE_WAREKI",
+        "text": "平成4年11月17日",
+        "start": 5,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "私の名前は太田 さゆりです。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "太田 さゆり",
+        "start": 5,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "有限会社吉田ガスの斉藤 七夏へ taichiota@example.com から連絡しました。",
+    "entities": [
+      {
+        "type": "ORGANIZATION",
+        "text": "有限会社吉田ガス",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "type": "PERSON",
+        "text": "斉藤 七夏",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "taichiota@example.com",
+        "start": 16,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "山本 淳さんは茨城県に住んでいます。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "山本 淳",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "type": "LOCATION",
+        "text": "茨城県",
+        "start": 7,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "太田 充は藤井運輸有限会社に勤務しています。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "太田 充",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "藤井運輸有限会社",
+        "start": 5,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "お電話は070-6317-3919までお願いします。",
+    "entities": [
+      {
+        "type": "PHONE_NUMBER",
+        "text": "070-6317-3919",
+        "start": 4,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "送付先は神奈川県横浜市青葉区中小来川32丁目13番7号 シャルム南赤田248です。",
+    "entities": [
+      {
+        "type": "JP_ADDRESS",
+        "text": "神奈川県横浜市青葉区中小来川32丁目13番7号 シャルム南赤田248",
+        "start": 4,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "斎藤 直人（長崎県在住、電話090-9188-9548）のマイナンバーは938082572498です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "斎藤 直人",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "LOCATION",
+        "text": "長崎県",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "090-9188-9548",
+        "start": 14,
+        "end": 27
+      },
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "938082572498",
+        "start": 36,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "阿部 舞さんは熊本県に住んでいます。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "阿部 舞",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "type": "LOCATION",
+        "text": "熊本県",
+        "start": 7,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "井上建設合同会社の中村 陽子へ suzukishohei@example.org から連絡しました。",
+    "entities": [
+      {
+        "type": "ORGANIZATION",
+        "text": "井上建設合同会社",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "type": "PERSON",
+        "text": "中村 陽子",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "suzukishohei@example.org",
+        "start": 16,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "アクセス元のIPアドレスは 214.148.231.11 です。",
+    "entities": [
+      {
+        "type": "IP_ADDRESS",
+        "text": "214.148.231.11",
+        "start": 14,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "担当の吉田 太郎（中川銀行合同会社）がご対応します。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "吉田 太郎",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "中川銀行合同会社",
+        "start": 9,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "ご連絡先メールは miturusuzuki@example.com です。",
+    "entities": [
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "miturusuzuki@example.com",
+        "start": 9,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "中村 結衣は有限会社佐藤鉱業に勤務しています。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "中村 結衣",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "有限会社佐藤鉱業",
+        "start": 6,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "佐藤 晃（電話：080-9482-3247、メール：gendo@example.com ）",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "佐藤 晃",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "080-9482-3247",
+        "start": 8,
+        "end": 21
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "gendo@example.com",
+        "start": 26,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "担当の斎藤 直樹（山本農林有限会社）がご対応します。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "斎藤 直樹",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "山本農林有限会社",
+        "start": 9,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "私のマイナンバーは731635643794です。",
+    "entities": [
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "731635643794",
+        "start": 9,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "弊社の法人番号は5613002957025になります。",
+    "entities": [
+      {
+        "type": "JP_CORPORATE_NUMBER",
+        "text": "5613002957025",
+        "start": 8,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "渡辺 加奈（福岡県在住、電話090-7291-3166）のマイナンバーは950604158450です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "渡辺 加奈",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "LOCATION",
+        "text": "福岡県",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "090-7291-3166",
+        "start": 14,
+        "end": 27
+      },
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "950604158450",
+        "start": 36,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "弊社の法人番号は9718618425343になります。",
+    "entities": [
+      {
+        "type": "JP_CORPORATE_NUMBER",
+        "text": "9718618425343",
+        "start": 8,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "弊社の法人番号は1699667196662になります。",
+    "entities": [
+      {
+        "type": "JP_CORPORATE_NUMBER",
+        "text": "1699667196662",
+        "start": 8,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "井上 浩（福岡県在住、電話070-2693-6668）のマイナンバーは935195008026です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "井上 浩",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "type": "LOCATION",
+        "text": "福岡県",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "070-2693-6668",
+        "start": 13,
+        "end": 26
+      },
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "935195008026",
+        "start": 35,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "text": "カード番号 3569966719666298 で決済しました。",
+    "entities": [
+      {
+        "type": "CREDIT_CARD",
+        "text": "3569966719666298",
+        "start": 6,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "ご連絡先メールは qmatsumoto@example.net です。",
+    "entities": [
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "qmatsumoto@example.net",
+        "start": 9,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "合同会社中村農林の清水 亮介へ vshimizu@example.com から連絡しました。",
+    "entities": [
+      {
+        "type": "ORGANIZATION",
+        "text": "合同会社中村農林",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "type": "PERSON",
+        "text": "清水 亮介",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "vshimizu@example.com",
+        "start": 16,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "契約日は1976年5月21日でした。",
+    "entities": [
+      {
+        "type": "DATE_TIME",
+        "text": "1976年5月21日",
+        "start": 4,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "〒830-4140 鳥取県印西市上吉羽2丁目12番6号 細野パレス337 に在住です。",
+    "entities": [
+      {
+        "type": "JP_POSTAL_CODE",
+        "text": "830-4140",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "type": "JP_ADDRESS",
+        "text": "鳥取県印西市上吉羽2丁目12番6号 細野パレス337",
+        "start": 10,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "井上 里佳（電話：090-9122-3897、メール：yoko42@example.com ）",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "井上 里佳",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "090-9122-3897",
+        "start": 9,
+        "end": 22
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "yoko42@example.com",
+        "start": 27,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "合同会社加藤銀行の伊藤 結衣へ fhashimoto@example.com から連絡しました。",
+    "entities": [
+      {
+        "type": "ORGANIZATION",
+        "text": "合同会社加藤銀行",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "type": "PERSON",
+        "text": "伊藤 結衣",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "fhashimoto@example.com",
+        "start": 16,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "小林 あすか（電話：090-7896-9673、メール：pmurakami@example.org ）",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "小林 あすか",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "090-7896-9673",
+        "start": 10,
+        "end": 23
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "pmurakami@example.org",
+        "start": 28,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "生年月日は昭和10年6月13日です。",
+    "entities": [
+      {
+        "type": "JP_DATE_WAREKI",
+        "text": "昭和10年6月13日",
+        "start": 5,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "加藤 加奈は鈴木運輸株式会社に勤務しています。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "加藤 加奈",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "鈴木運輸株式会社",
+        "start": 6,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "私のマイナンバーは032723057972です。",
+    "entities": [
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "032723057972",
+        "start": 9,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "契約日は2010年10月19日でした。",
+    "entities": [
+      {
+        "type": "DATE_TIME",
+        "text": "2010年10月19日",
+        "start": 4,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "私のマイナンバーは823247786925です。",
+    "entities": [
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "823247786925",
+        "start": 9,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "詳しくは http://hayashi.net/ をご覧ください。",
+    "entities": [
+      {
+        "type": "URL",
+        "text": "http://hayashi.net/",
+        "start": 5,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "長谷川 直子（大阪府在住、電話070-9657-4620）のマイナンバーは540478969672です。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "長谷川 直子",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "type": "LOCATION",
+        "text": "大阪府",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "070-9657-4620",
+        "start": 15,
+        "end": 28
+      },
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "540478969672",
+        "start": 37,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "生年月日は平成21年10月20日です。",
+    "entities": [
+      {
+        "type": "JP_DATE_WAREKI",
+        "text": "平成21年10月20日",
+        "start": 5,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "弊社の法人番号は3507735784591になります。",
+    "entities": [
+      {
+        "type": "JP_CORPORATE_NUMBER",
+        "text": "3507735784591",
+        "start": 8,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "担当の高橋 浩（高橋農林合同会社）がご対応します。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "高橋 浩",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "高橋農林合同会社",
+        "start": 8,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "小川 直人（電話：070-5081-5327、メール：csato@example.com ）",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "小川 直人",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "type": "PHONE_NUMBER",
+        "text": "070-5081-5327",
+        "start": 9,
+        "end": 22
+      },
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "csato@example.com",
+        "start": 27,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "私のマイナンバーは251801498755です。",
+    "entities": [
+      {
+        "type": "JP_MY_NUMBER",
+        "text": "251801498755",
+        "start": 9,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "高橋 裕美子は田中銀行株式会社に勤務しています。",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "高橋 裕美子",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "田中銀行株式会社",
+        "start": 7,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "ご連絡先メールは yoichi67@example.net です。",
+    "entities": [
+      {
+        "type": "EMAIL_ADDRESS",
+        "text": "yoichi67@example.net",
+        "start": 9,
+        "end": 29
+      }
+    ]
+  }
+]
