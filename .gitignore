@@ -7,3 +7,10 @@ __pycache__/
 
 # downloaded dataset (CC-BY-SA 3.0, auto-fetched by eval/eval_ner_wikipedia.py)
 eval/fixtures/ner_wikipedia_raw.json
+
+# env
+.env
+
+# .crt and .key
+certs/*.crt
+certs/*.key
