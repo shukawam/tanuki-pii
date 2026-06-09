@@ -1,0 +1,51 @@
+_format_version: "3.0"
+
+services:
+  - name: openai-service
+    url: https://httpbin.konghq.com
+    routes:
+      - name: openai-route
+        paths:
+          - /v1
+        plugins:
+          - name: ai-proxy-advanced
+            config:
+              targets:
+                - route_type: llm/v1/chat
+                  auth:
+                    header_name: Authorization
+                    header_value: Bearer ${{ env "DECK_OPENAI_API_KEY" }}
+                  model:
+                    provider: openai
+                    name: gpt-4o-mini
+          - name: ai-sanitizer
+            config:
+              host: tanuki-pii
+              sanitization_mode: INPUT
+              redact_type: placeholder
+              anonymize:
+                - all_and_credentials
+              # block_if_detected: true
+              recover_redacted: true
+
+plugins:
+  - name: opentelemetry
+    config:
+      traces_endpoint: http://otel-lgtm:4318/v1/traces
+      logs_endpoint: http://otel-lgtm:4318/v1/logs
+      access_logs_endpoint: http://otel-lgtm:4318/v1/logs
+      metrics:
+        endpoint: http://otel-lgtm:4318/v1/metrics
+        push_interval: 5
+        enable_ai_metrics: true
+        enable_bandwidth_metrics: true
+        enable_consumer_attribute: true
+        enable_latency_metrics: true
+        enable_request_metrics: true
+        enable_upstream_health_metrics: true
+      propagation:
+        default_format: w3c
+        extract:
+          - w3c
+        inject:
+          - w3c
