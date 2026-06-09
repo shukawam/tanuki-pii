@@ -1,13 +1,14 @@
-# Kong Gateway + tanuki-pii の結合確認用（DB-less / declarative）。
-# 使い方:
-#   docker compose -f docker-compose.kong.yml up --build
-# 確認:
-#   curl http://localhost:9000/llm/v1/status            # 本サービス直叩き
-#   # Kong 経由で ai-sanitizer プラグインが pii-service-ja を向く（kong.yml で設定）。
+x-default: &default
+  networks:
+    - kong-net
+
+networks:
+  kong-net:
 
 services:
-  pii-service-ja:
+  tanuki-pii:
     <<: *default
+    container_name: tanuki-pii
     build:
       context: .
       args:
@@ -19,7 +20,7 @@ services:
       TOKENIZERS_PARALLELISM: "false"
       BERT_CONCURRENCY: "1"
     ports:
-      - "9000:8080"
+      - 8080:8080
     healthcheck:
       test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8080/llm/v1/status')"]
       interval: 15s
@@ -63,3 +64,19 @@ services:
       interval: 10s
       timeout: 5s
       retries: 5
+
+  otel-lgtm:
+    <<: *default
+    container_name: otel-lgtm
+    image: grafana/otel-lgtm:0.25.0
+    environment:
+      GF_AUTH_ANONYMOUS_ENABLED: true
+      GF_AUTH_ANONYMOUS_ORG_ROLE: Admin
+      GF_AUTH_DISABLE_LOGIN_FORM: true
+    ports:
+      - 3000:3000
+    healthcheck:
+      test: ['CMD-SHELL', 'wget -qO- http://localhost:3000/api/health || exit 1']
+      interval: 10s
+      timeout: 5s
+      retries: 10
